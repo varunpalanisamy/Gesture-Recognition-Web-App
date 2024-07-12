@@ -47,7 +47,7 @@ Make sure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/varunpalanisamy/gesture-recognition.git
+   git clone https://github.com/varunpalanisamy/Gesture-Recognition-Web-App.git
    cd gesture-recognition
 
 2. Create a virtual environment (optional but recommended):
