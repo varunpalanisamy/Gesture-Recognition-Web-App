@@ -60,7 +60,7 @@ Make sure you have the following installed:
    ```bash
    pip install -r requirements.txt
    
-4. Download the pre-trained model weights and save them as resnext50.pth in the project directory.
+4. Download the pre-trained model weights and save them as resnext50.pth in the Gesture-Recognition-Web-App directory.
 Download here: https://drive.google.com/file/d/16cwCjHddpO75W7O3XYQmDygB149iPIhP/view?usp=sharing
 
 
